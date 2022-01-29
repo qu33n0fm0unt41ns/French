@@ -13,6 +13,9 @@
      <th>
         English
     </th>
+     <th>
+        Spanish
+    </th>
     <th>
         personal
         Pronoun
@@ -30,6 +33,9 @@
     <th>
         I
     </th>
+     <th>
+        Yo
+    </th>
     <th>
         Je
     </th>
@@ -43,6 +49,9 @@
     </th>
     <th>
         You
+    </th>
+      <th>
+        Tú
     </th>
     <th>
         Tu
@@ -59,6 +68,9 @@
         He
     </th>
     <th>
+        Él
+    </th>
+    <th>
         Il
     </th>
     <th>
@@ -71,6 +83,9 @@
     </th>
     <th>
         She
+    </th>
+     <th>
+        Ella
     </th>
     <th>
         Elle
@@ -86,6 +101,9 @@
     <th>
         We
     </th>
+     <th>
+        Nosotros
+    </th>
     <th>
         Nous
     </th>
@@ -99,6 +117,9 @@
     </th>
     <th>
         You
+    </th>
+     <th>
+        Vosotros
     </th>
     <th>
         Vous
@@ -115,6 +136,9 @@
         They
     </th>
     <th>
+        Ellos
+    </th>
+    <th>
         Ils
     </th>
     <th>
@@ -127,6 +151,9 @@
     </th>
     <th>
         They
+    </th>
+    <th>
+        Ellas
     </th>
     <th>
         Elles
