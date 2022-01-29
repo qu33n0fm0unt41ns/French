@@ -1,0 +1,28 @@
+site_name: Learning French
+site_description: Learing French site
+site_author: Queen of muntains
+pages:
+- Home: index.md
+- Greetings: 1_greetings.md
+- Expresions: 2_expresions.md
+- Numbers: 3_numbers.md
+- Colors: 4_colors.md
+- Family: 5_family.md
+- Prepositions: 6_prepositions.md
+- TobeVerb: 7_Tobeverb.md
+- Weekdays: 8_weekdays.md
+- School Supplies: 9_schoolsupplies.md
+- About: about.md
+
+
+theme: readthedocs
+logo: img/logo.png
+
+# Options
+extra:
+ logo: 'img/logo.png'
+
+#Copyright
+copyright: 'Copyright &copy; 2022 Queen of muntains'
+
+
