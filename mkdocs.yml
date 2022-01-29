@@ -1,6 +1,6 @@
 site_name: Learning French
 site_description: Learing French site
-site_author: Queen of muntains
+site_author: Queen of mountains
 pages:
 - Home: index.md
 - Greetings: 1_greetings.md
