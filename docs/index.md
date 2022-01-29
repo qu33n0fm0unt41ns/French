@@ -1,4 +1,4 @@
-# Welcome Learing French site
+# Welcome to my Learing French site
 
 ## Bienvenue!
 
