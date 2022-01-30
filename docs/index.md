@@ -1,6 +1,8 @@
 # Welcome to my Learning French site
 
 ## Bienvenue!
+### Bonjour je mappelle The queen of mountains.
 
 ***
-![](../media/flagF.PNG)
+<img src="../media/flagF.PNG"/>
+
