@@ -29,7 +29,7 @@
     </th>
      <th>
         <b><font size=24 color="#138D75">4</font></b>
-        <div>Quate
+        <div>Quatre
         </div>
          <div><input type="image" src="../media/reproduce.png" style="width:25px;"  />
         </div>
@@ -150,7 +150,7 @@
     </th>
     <th>
         <b><font size=24 color="#633974">20</font></b>
-        <div>Vigt
+        <div>Vingt
         </div>
          <div><input type="image" src="../media/reproduce.png" style="width:25px;"  />
         </div>

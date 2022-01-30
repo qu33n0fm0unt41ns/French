@@ -1,6 +1,6 @@
-# Welcome to my Learing French site
+# Welcome to my Learning French site
 
 ## Bienvenue!
 
-
+***
 ![](../media/flagF.PNG)

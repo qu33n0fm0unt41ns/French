@@ -17,7 +17,7 @@
         Spanish
     </th>
     <th>
-        personal
+        Personal
         Pronoun
     </th>
      <th>
