@@ -17,4 +17,4 @@
 ![](../media/famille/famille04.png)
  
 ***
-<img src="../media/sig2.PNG" alt="drawing" style="width:200px;"/>
+<img src="../media/sig2.PNG"  style="width:200px;"/>

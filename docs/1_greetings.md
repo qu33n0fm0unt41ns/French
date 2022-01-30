@@ -21,4 +21,4 @@ There are a lot of ways to say "Hi".
 
  
 ***
-<img src="../media/sig2.PNG" alt="drawing" style="width:200px;"/>
+<img src="../media/sig2.PNG" style="width:200px;"/>
